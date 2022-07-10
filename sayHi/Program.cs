@@ -1,7 +1,7 @@
 ﻿Console.Write("Inter username,");  
 string username = Console.ReadLine();       
 
-if(username == "ikikiki") 
+if(username == "jhon") 
 {
     Console.WriteLine("Hi handsome!");
 }  

@@ -1,12 +1,14 @@
-﻿Console.WriteLine("Please, enter your name:");
-string username = Console.ReadLine();
+﻿Console.Write("Inter username,");  
+string username = Console.ReadLine();       
 
-if(username == IKIKIKI);
+if(username == "ikikiki") 
 {
-Console.WriteLine("Hello, handsome! <3");
-}
-else
+    Console.WriteLine("Hi handsome!");
+}  
+
+else  
+
 {
-    Console.Write("Get lost!");
+    Console.Write("hi,");
     Console.WriteLine(username);
 }

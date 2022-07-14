@@ -12,7 +12,7 @@
 
 void PrintArry(int[] col)
 {
-    int count =col.Length;
+    int count = col.Length;
     int position = 0;
     while (position < count)
     {
